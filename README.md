@@ -1,6 +1,6 @@
 # Personal Squirrel Config
 
-[Squirrel](https://github.com/rime/squirrel) is the MacOS version of [Rime](https://rime.im/) input method engline.
+[Squirrel](https://github.com/rime/squirrel) is the MacOS flavor of [Rime](https://rime.im/) input method engline.
 
 The Config is based on [Rime 鼠须管输入法傻瓜式配置指南](https://github.com/wongdean/rime-settings) 
 
